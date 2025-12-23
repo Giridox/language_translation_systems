@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+torch
+transformers
+sentencepiece
+gradio
+datasets
+accelerate
+scikit-learn

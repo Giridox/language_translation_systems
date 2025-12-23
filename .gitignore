@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Model files (too large for GitHub)
+sarcasm_model/
+*.safetensors
+*.bin
+
+# Generated files
+unified_lexicon.npy
+
+# Gradio cache
+.gradio/
+flagged/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
